@@ -1,0 +1,34 @@
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe.config
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\MainWindow.baml
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\MainWindow.g.cs
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\App.g.cs
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1_MarkupCompile.cache
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.g.resources
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Properties.Resources.resources
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csproj.GenerateResource.Cache
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.exe
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.pdb
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\App.baml
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csprojResolveAssemblyReference.cache
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\MahApps.Metro.dll
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\System.Windows.Interactivity.dll
+c:\users\игорь\documents\visual studio 2013\Projects\lab_work_2_1\lab_work_2_1\bin\Debug\MahApps.Metro.xml
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe.config
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\bin\Debug\lab_work_2_1.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\bin\Debug\MahApps.Metro.dll
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\bin\Debug\MahApps.Metro.xml
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csprojResolveAssemblyReference.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\MainWindow.baml
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\App.baml
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\MainWindow.g.cs
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\App.g.cs
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1_MarkupCompile.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.g.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.Properties.Resources.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\C# System\lab_work_2_1\lab_work_2_1\obj\Debug\lab_work_2_1.csproj.GenerateResource.Cache
